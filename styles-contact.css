@@ -84,7 +84,7 @@ html, body {
 h1 {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 2em;
-    margin: 0px auto 10px auto;
+    margin: 15px auto 10px auto;
     color:black;
 }
 
@@ -121,7 +121,7 @@ nav{
 	padding: 10px; 
 	}
 	a{
-	color: #444;
+	color:white;
 	text-decoration: none; 
 	font-weight: bold;
 	}
