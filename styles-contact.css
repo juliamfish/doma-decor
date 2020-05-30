@@ -51,8 +51,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /* ---------- This is the beginning of my 377 FoCo Web Page Project ------------ */
 
 html, body {
@@ -60,7 +58,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("living.jpg");
+  background-image: url("newbackground.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 	   background-attachment: fixed;
@@ -76,7 +74,6 @@ html, body {
 	text-align: center;
 	border: 4px dashed white;
 }
-
    
 #logo {
     margin-bottom: 16px;
@@ -88,14 +85,14 @@ h1 {
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 2em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color:black;
 }
 
 h2 {
 font-family: Georgia, 'Times New Roman', Times, serif;	
 font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: black;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -104,7 +101,7 @@ p {
 font-family: Georgia, 'Times New Roman', Times, serif;	
 font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: black;
 }
 nav{
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
